@@ -134,14 +134,6 @@
 			<string>SecuritySierra</string>
 			<string>SafariSierra</string>
 		</array>
-		<key>10.13.6-17G65</key>
-		<array>
-			<string>iTunesHighSierra</string>
-			<string>SafariHighSierra</string>
-		</array>
-		<key>10.14-18A391</key>
-		<array>
-		</array>
 	</dict>
 	<key>PublicationDate</key>
 	<date>2018-09-24T17:11:37Z</date>
